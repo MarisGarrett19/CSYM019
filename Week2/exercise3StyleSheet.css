@@ -1,0 +1,19 @@
+﻿body {
+    background-color: #b0a8a8;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #808080;
+    padding: 5px;
+}
+
+.grid-item {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-family: Verdana;
+    font-size: 10px;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+﻿.csym019 {
+    background-color: blue;
+    width: 50%;
+    float: left;
+}
+
+.csym015 {
+    background-color: red;
+    width: 50%;
+    float: right;
+}
+
+
+
+/*Make sure that each module appears in its own column with its
+own background colour*/
